@@ -4,5 +4,5 @@
 *I put this course in my final-year schedule for __Computational Physics is powerful.__*
 *Although my future major is condensed matter physics, __Program is still an awesome tool__.*
 
-The **3rd** Assignment：
+The **3rd** Assignment：*__Under Revision__*
 https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/MyName.py
