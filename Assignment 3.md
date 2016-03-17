@@ -24,7 +24,7 @@
         x = raw_input('''Input an Arbitrary Order of My Last Name (lin), Press Enter to Continue.
         (Note: Must Be 3 Lower-Case Characters):  ''')
 
-三、 对最后print出来的字符画的做定义，将需要print的位置$x_i$(i=1...7)存为一个数组，取自之前定义的字母的字符画的每一行，$i_n$(n=1...7)用于后续做判断，如：
+三、 对最后print出来的字符画的做定义，将需要print的位置Xi(i=1...7)存为一个数组，取自之前定义的字母的字符画的每一行，in(n=1...7)用于后续做判断，如：
 
         x1 = x[0]
         if x1 == 'l':
