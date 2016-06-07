@@ -16,6 +16,7 @@ Ordinary differential equations are highly common in many scientific problems, u
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considering a radioactive decay, a typical example is the nuclear isotope 
 ![](http://latex.codecogs.com/gif.latex?$$^{235}U$$), which has a small probability for decaying into two nuclei. Assuming ![](http://latex.codecogs.com/gif.latex?$$N_{U}(t)$$) is the number of uranium nuclei that are present in a sample at time ![](http://latex.codecogs.com/gif.latex?$$t$$), the behavior is governed by the differential equation:
 
+![](http://latex.codecogs.com/gif.latex?$$\frac{dN_U(t)}{dt}=-\frac{N_U}{\tau}$$)
 <div class="footer">
 ![](http://latex.codecogs.com/gif.latex?$$\frac{dN_U(t)}{dt}=-\frac{N_U}{\tau}$$)
 <span>
@@ -23,11 +24,13 @@ Ordinary differential equations are highly common in many scientific problems, u
 </span>
 </div>
 <style>
-.footer{ text-align:center; height:30px; line-height:40px; width:940px; margin:0 auto; padding:0 27px; font-size:12px;}
-.footer span{ float:right;}
+.footer{text-align:center; height:30px; line-height:40px; width:940px; margin:0 auto; padding:0 27px; font-size:12px;}
+.footer span{float:right;}
 </style>
 
 where ![](http://latex.codecogs.com/gif.latex?$$\tau$$) is the time constant for this decay or so call the mean lifetime of a nucleus. The result through applying integral to equation (a) is:
+
+![](http://latex.codecogs.com/gif.latex?$$N_U(t)=N_U(0)e^{-t/\tau} $$)
 <div class="footer">
 ![](http://latex.codecogs.com/gif.latex?$$N_U(t)=N_U(0)e^{-t/\tau} $$)
 <span>(b)</span></div><style>
