@@ -15,7 +15,7 @@ Ordinary differential equations are highly common in many scientific problems, u
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considering a radioactive decay, a typical example is the nuclear isotope 
 ![](http://latex.codecogs.com/gif.latex?$$^{235}U$$), which has a small probability for decaying into two nuclei. Assuming ![](http://latex.codecogs.com/gif.latex?$$N_{U}(t)$$) is the number of uranium nuclei that are present in a sample at time ![](http://latex.codecogs.com/gif.latex?$$t$$), the behavior is governed by the differential equation: 
 <p align="center">![](http://latex.codecogs.com/gif.latex?$$\\frac{dN_U(t)}{dt}=-\\frac{N_U}{\\tau}\\qquad(a)$$)</p>
-
+![](http://latex.codecogs.com/gif.latex?$$\\frac{dN_U(t)}{dt}=-\\frac{N_U}{\\tau}\\qquad(a)$$)
 where ![](http://latex.codecogs.com/gif.latex?$$\tau$$) is the time constant for this decay or so call the mean lifetime of a nucleus. The result through applying integral to equation (a) is:
 
 ![](http://latex.codecogs.com/gif.latex?$$N_U(t)=N_U(0)e^{-t/\tau}\qquad(b)$$)
@@ -100,7 +100,7 @@ Using pylab module, the figure below has showed the results of two different tim
 ![](https://github.com/ZQTXLC/computationalphysics_N2012301020134/raw/master/Chapter-1/A4.jpg)
 
 </p>
-
+![](https://github.com/ZQTXLC/computationalphysics_N2012301020134/raw/master/Chapter-1/A4.jpg)
 <br /> 
 **Conclusion:**
 <br>
