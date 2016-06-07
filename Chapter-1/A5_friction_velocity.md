@@ -14,7 +14,7 @@ Under the frame work of Euler method, this paper calculates the velocity of an o
 <br>
 &emsp;&emsp;With the Taylor expansion of a function __*f*(*v*)__, *Euler method* assumes *__Δt__* is very small but nonzero then the terms that involve second and higher powers of *__Δt__* can be ignored, and gives out the approximation form of __*f*(*v*)__:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](http://latex.codecogs.com/gif.latex?$$f(x+\Delta x) \approx f(x)+\frac{df(x)}{dx}\Delta x \qquad\qquad\qquad\qquad\qquad\qquad\qquad(5.1)$$)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](http://latex.codecogs.com/gif.latex?$$f(x+\\Delta x) \\approx f(x)+\\frac{df(x)}{dx}\\Delta x \\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad(5.1)$$)
 
 Considering the case that a moving object with a nonzero frictional force __*f*(*v*)__, here, as we can image, this force is velocity dependent, that is __*f*(*v*)__ increase as the object moves faster. A typical example is a parachutist, who would be dragged when he open a parachute which produces an air resistance, and then the parachutist lands on the ground slowly and safely. The function form of air drag to moving velocity is quite complex and factors like the shape of the object, air temperature, air humidity, the velocity of air itself, even the atmosphere pressure have influences on it. Here, for the sake of simplicity, assuming the frictional fore increases linearly with increasing velocity, namely, the function form of object velocity when there is an applied driving force obeys:
 
