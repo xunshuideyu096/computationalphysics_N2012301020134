@@ -95,12 +95,16 @@ To store or read the result, pickle module is a good option.
 
 Using pylab module, the figure below has showed the results of two different time steps, as the figure has indicated, for this simple case, the result given by Euler method is exact solution and is independent of time steps.
 
-<p align="center">
-
 ![](https://github.com/ZQTXLC/computationalphysics_N2012301020134/raw/master/Chapter-1/A4.jpg)
-
-</p>
+<style>
+body:text-align:center
+</style>
 ![](https://github.com/ZQTXLC/computationalphysics_N2012301020134/raw/master/Chapter-1/A4.jpg)
+<style>
+body:text-align:center
+![](https://github.com/ZQTXLC/computationalphysics_N2012301020134/raw/master/Chapter-1/A4.jpg)
+</style>
+
 <br /> 
 **Conclusion:**
 <br>
