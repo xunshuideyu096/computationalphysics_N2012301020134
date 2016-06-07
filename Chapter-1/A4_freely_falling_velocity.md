@@ -19,7 +19,7 @@ Ordinary differential equations are highly common in many scientific problems, u
 
 
 
-![](http://latex.codecogs.com/gif.latex?$$\\frac{dN_U(t)}{dt}=-\\frac{N_U}{\\tau}$$)
+![](http://latex.codecogs.com/gif.latex?$$\\frac{dN_U(t)}{dt}=-\\frac{N_U}{\\tau}                                        (a)$$)
 <div class="footer">
 ![](http://latex.codecogs.com/gif.latex?$$\\frac{dN_U(t)}{dt}=-\\frac{N_U}{\\tau}$$)
 <span>
