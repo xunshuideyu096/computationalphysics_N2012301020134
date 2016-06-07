@@ -6,6 +6,8 @@ Source Code: https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/
 #####<center>Chun lin</center>
 #####<center>Student ID: 2012301020134, Major: Physics Base Class</center>
 
+<img src="http://latex.codecogs.com/gif.latex?\frac{\partial J}{\partial \theta_k^{(j)}}=\sum_{i:r(i,j)=1}{\big((\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\big)x_k^{(i)}}+\lambda \theta_k^{(j)}" />  
+
 
 **Abstract:**
 Ordinary differential equations are highly common in many scientific problems, using an example of solving a simple first-order differential equation concerning a constant acceleration, this paper has showed the basic idea of Euler method.
