@@ -21,6 +21,18 @@ Ordinary differential equations are highly common in many scientific problems, u
 \tau
 \end{equation}
 ![](http://latex.codecogs.com/gif.latex?\\begin{equation}\\frac{dN_U(t)}{dt}=-\\frac{N_U}{\\tau}\\end{equation})
+![](http://latex.codecogs.com/gif.latex?\begin{equation}\\frac{dN_U(t)}{dt}=-\\frac{N_U}{\\tau}\end{equation})
+![](http://latex.codecogs.com/gif.latex?
+\\begin{equation}
+\\frac{dN_U(t)}{dt}=-\\frac{N_U}{\\tau}
+\\end{equation})
+![](http://latex.codecogs.com/gif.latex?
+\begin{equation}
+\\frac{dN_U(t)}{dt}=-\\frac{N_U}{\\tau}
+\end{equation})
+![](http://latex.codecogs.com/gif.latex?\\begin{equation}
+\\frac{dN_U(t)}{dt}=-\\frac{N_U}{\\tau}
+\\end{equation})
 ![](http://latex.codecogs.com/gif.latex?$$\\frac{dN_U(t)}{dt}=-\\frac{N_U}{\\tau}$$)
 <div class="footer">
 ![](http://latex.codecogs.com/gif.latex?$$\\frac{dN_U(t)}{dt}=-\\frac{N_U}{\\tau}$$)
