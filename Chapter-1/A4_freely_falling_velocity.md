@@ -16,9 +16,10 @@ Ordinary differential equations are highly common in many scientific problems, u
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considering a radioactive decay, a typical example is the nuclear isotope 
 ![](http://latex.codecogs.com/gif.latex?$$^{235}U$$), which has a small probability for decaying into two nuclei. Assuming ![](http://latex.codecogs.com/gif.latex?$$N_{U}(t)$$) is the number of uranium nuclei that are present in a sample at time ![](http://latex.codecogs.com/gif.latex?$$t$$), the behavior is governed by the differential equation:
 
-![](http://latex.codecogs.com/gif.latex?$\frac{dN_U(t)}{dt}$)
-![](http://latex.codecogs.com/gif.latex?$\frac{dN_U(t)}{dt}=-\frac{N_U}{\tau}$)
-![](http://latex.codecogs.com/gif.latex?$$\frac{dN_U(t)}{dt}=-\frac{N_U}{\tau} $$)
+![](http://latex.codecogs.com/gif.latex?$$\tau$$)
+
+![](http://latex.codecogs.com/gif.latex?$\tau$)
+![](http://latex.codecogs.com/gif.latex?$$(\tau)$$)
 <div class="footer">
 ![](http://latex.codecogs.com/gif.latex?$$\frac{dN_U(t)}{dt}=-\frac{N_U}{\tau}$$)
 <span>
