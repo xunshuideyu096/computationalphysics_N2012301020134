@@ -6,9 +6,6 @@ Source Code: https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/
 #####<center>Chun lin</center>
 #####<center>Student ID: 2012301020134, Major: Physics Base Class</center>
 
-![](http://latex.codecogs.com/gif.latex?\\frac{\\partial J}{\\partial \\theta_k^{(j)}}=\\sum_{i:r(i,j)=1}{\\big((\\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\\big)x_k^{(i)}}+\\lambda \\xtheta_k^{(j)})
-
-
 
 **Abstract:**
 Ordinary differential equations are highly common in many scientific problems, using an example of solving a simple first-order differential equation concerning a constant acceleration, this paper has showed the basic idea of Euler method.
@@ -19,14 +16,9 @@ Ordinary differential equations are highly common in many scientific problems, u
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Considering a radioactive decay, a typical example is the nuclear isotope 
 ![](http://latex.codecogs.com/gif.latex?$$^{235}U$$), which has a small probability for decaying into two nuclei. Assuming ![](http://latex.codecogs.com/gif.latex?$$N_{U}(t)$$) is the number of uranium nuclei that are present in a sample at time ![](http://latex.codecogs.com/gif.latex?$$t$$), the behavior is governed by the differential equation:
 
-1![](http://latex.codecogs.com/gif.latex?$${\\tau}$$)
 
-2![](http://latex.codecogs.com/gif.latex?$\\alpha$)
-3![](http://latex.codecogs.com/gif.latex?$\\tau$)
-4![](http://latex.codecogs.com/gif.latex?\\tau)
-5![](http://latex.codecogs.com/gif.latex?\tau)
 <div class="footer">
-![](http://latex.codecogs.com/gif.latex?$$\frac{dN_U(t)}{dt}=-\frac{N_U}{\tau}$$)
+![](http://latex.codecogs.com/gif.latex?$$\\frac{dN_U(t)}{dt}=-\\frac{N_U}{\\tau}$$)
 <span>
 (a)
 </span>
