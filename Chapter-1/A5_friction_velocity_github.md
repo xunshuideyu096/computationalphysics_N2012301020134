@@ -103,7 +103,7 @@ Using *pylab* module, as the code and figure shown below, the program plots time
     savefig("A5.jpg")
     show()
 
-&emsp;&emsp;&emsp;&emsp;![](https://github.com/ZQTXLC/computationalphysics_N2012301020134/raw/master/Chapter-1/A5.jpg)
+&emsp;&emsp;&emsp;![](https://github.com/ZQTXLC/computationalphysics_N2012301020134/raw/master/Chapter-1/A5.jpg)
 
 <br /> 
 **Conclusion:**
