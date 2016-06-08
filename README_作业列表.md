@@ -8,7 +8,7 @@ Although my future major is condensed matter physics, __Program is still an awes
 ###The Assignment List
 
 </br>
-[The **3rd** Assignment](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Assignment-3/Assignment%203.md)
+[The **3rd** Assignment: Date: 2016-03-18](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Assignment-3/Assignment%203.md)
 <br>
 ####<p align="center">非常抱歉！由于之前忙于出国申请的事务和毕业论文的实验，很多次作业都没有交，</p>
 
