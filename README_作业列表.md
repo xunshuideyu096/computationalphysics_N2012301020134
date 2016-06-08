@@ -11,8 +11,10 @@
 ####<p align="center">我会在这一两周之内补上！谢谢助教老师！</p>
 
 </br>
+<br>
 另外就是，我按照老师的建议，使用(http://latex.codecogs.com/gif.latex?) 来插入LaTex公式，但是对于存在一个 \ 的公式无法显示，改为两个 \\ 后才可正常显示，公式内包含空格不会影响显示。
 
+</br>
 [The **4th** Assignment: Exercise 1.1, Date: 2016-06-07](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-1/A4_freely_falling_velocity_github.md)
 
 [The **5th** Assignment: Exercise 1.3, Date: 2016-06-08](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-1/A5_friction_velocity_github.md)
