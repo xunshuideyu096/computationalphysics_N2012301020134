@@ -1,6 +1,6 @@
 **EXERCISE: 1.1** 
 
-[Source Code: A4_freely_falling_velocity.py](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-1/A4_freely_falling_velocity.py)
+[Source Code: A4.py](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-1/A4.py)
 
 ###<p align="center">An application of Euler method on a simple first-order differential equation</p>
 #####<p align="center">Chun lin</p>
