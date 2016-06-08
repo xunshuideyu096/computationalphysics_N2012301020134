@@ -6,9 +6,9 @@
 
 [The **3rd** Assignment](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Assignment-3/Assignment%203.md)
 <br>
-<p align="center">####非常抱歉！由于之前忙于出国申请的事务和毕业论文的实验，很多次作业都没有交，</p>
+####<p align="center">非常抱歉！由于之前忙于出国申请的事务和毕业论文的实验，很多次作业都没有交，</p>
 
-<p align="center">####我会在这一两周之内补上！谢谢助教老师！</p>
+####<p align="center">我会在这一两周之内补上！谢谢助教老师！</p>
 
 </br>
 另外就是，我按照老师的建议，使用(http://latex.codecogs.com/gif.latex?) 来插入LaTex公式，但是对于存在一个 \ 的公式无法显示，改为两个 \\ 后才可正常显示，公式内包含空格不会影响显示。
