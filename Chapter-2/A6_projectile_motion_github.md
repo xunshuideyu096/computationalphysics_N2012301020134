@@ -82,7 +82,7 @@ Adding equation (6.9) to equation (6.3) leads to:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;![](http://latex.codecogs.com/gif.latex?$$v_{x,i+1}=v_{x,i}-\\frac{B_2v_iv_{x,i}e^{-y_i/y_0}}{m}\\Delta t \\qquad\\qquad\\qquad\\qquad\\qquad\\quad\\ \\ (6.10c)$$)
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;![](http://latex.codecogs.com/gif.latex?$$v_{y,i+1}=v_{y,i}-(g+\\frac{B_2v_iv_{y,i}e^{-y_i/y_0}}{m})\\Delta t \\qquad\\qquad\\qquad\\qquad\\quad\\ \\ (6.10d)$$)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;![](http://latex.codecogs.com/gif.latex?$$v_{y,i+1}=v_{y,i}-(g+\\frac{B_2v_iv_{y,i}e^{-y_i/y_0}}{m})\\Delta t \\qquad\\qquad\\qquad\\qquad\\quad\\ (6.10d)$$)
 
 Mathematically speaking, the time evolution according to equation (6.10) is continued forever, however, as ![](http://latex.codecogs.com/gif.latex?$$y_{i+1} $$) becomes negative, which means the shell struck the ground somewhere during the *i* th ![](http://latex.codecogs.com/gif.latex?$$\\Delta t $$) time step, and that means we should stop this loop, since this is the physics of this problem. By interpolating between the last two calculated positions, ![](http://latex.codecogs.com/gif.latex?$$y_i,y_{i+1}$$), to estimate where the shell hit the ground. Take ![](http://latex.codecogs.com/gif.latex?$$r=-y_i/y_{i+1} $$) then a linear interpolation gives the landing point of the shell (*l*):
 
