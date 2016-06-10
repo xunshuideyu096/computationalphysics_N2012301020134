@@ -66,7 +66,7 @@ where *y* is the altitude, *T* is the absolute temperature, *m* is the average m
 
 where ![](http://latex.codecogs.com/gif.latex?$$y_0=k_BT/mg \\approx 1.0\\times 10^4 m, \\rho_0 $$) is density at h=0. What deserves attention is this isothermal model of atmosphere is not very realistic, since the aire temperature varies significantly over height changes of a few kilometers. Some other model such as adiabatic model can predict a totally different result. Here, the isothermal approximation is a decent treatment. The drag force duo to air resistance is proportional to the density, that means:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;![](http://latex.codecogs.com/gif.latex?$$F_{drag}=\\frac{\\rho}{\\rho_0}F_{drag}^0 \\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\quad\\ \\ \\ \\ \\ \\ (6.8)$$)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;![](http://latex.codecogs.com/gif.latex?$$F_{drag}=\\frac{\\rho}{\\rho_0}F_{drag}^0 \\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\quad\\ \\ \\ \\ \\ \\ (6.8)$$)
 
 Substituting equation (6.8) with equation (6.5) and (6.7) yields:
 
