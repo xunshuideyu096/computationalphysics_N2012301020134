@@ -22,3 +22,8 @@ Although my future major is condensed matter physics, __Program is still an awes
 [The **4th** Assignment: Exercise 1.1, Date: 2016-06-07](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-1/A4_freely_falling_velocity_github.md)
 
 [The **5th** Assignment: Exercise 1.3, Date: 2016-06-08](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-1/A5_friction_velocity_github.md)
+
+[The **6th** Assignment: Exercise 2.9, Date: 2016-06-10](
+https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-2/A6_projectile_motion_github.md)
+
+[The **7th** Assignment: Exercise , Date: 2016-06-]()
