@@ -26,4 +26,4 @@ Although my future major is condensed matter physics, __Program is still an awes
 [The **6th** Assignment: Exercise 2.9, Date: 2016-06-10](
 https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-2/A6_projectile_motion_github.md)
 
-[The **7th** Assignment: Exercise , Date: 2016-06-]()
+[The **7th** Assignment: Exercise 2.19, Date: 2016-06-11]()
