@@ -28,4 +28,4 @@ https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapte
 
 [The **7th** Assignment: Exercise 2.19, Date: 2016-06-11](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-2/A7_effect_spin_github.md)
 
-[The **8th** Assignment: Exercise 3.7, 3.8, Date: 2016-06-12]()
+[The **8th** Assignment: Exercise , Date: 2016-06-]()
