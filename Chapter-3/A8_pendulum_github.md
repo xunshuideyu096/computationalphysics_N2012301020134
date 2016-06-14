@@ -1,6 +1,8 @@
 **EXERCISE: 3.7** 
 
-[Source Code: A8.py](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-3/A8.py)
+[Source Code: A8_3.7.py](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-3/A8_3.7.py)
+
+[Source Code: A8_3.8.py](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-3/A8_nonlinear_3.8.py)
 
 ###<p align="center">Numerically investigate the linear forced pendulum</p>
 #####<p align="center">Chun lin</p>
@@ -27,7 +29,7 @@ This is the central equation of simple harmonic motion, which has a general solu
 
 where ![](http://latex.codecogs.com/gif.latex?$$\\Omega =\\sqrt{(g/l)} $$) is the angular frequency whichi is independent of mass and the amplitude of the motion, and ![](http://latex.codecogs.com/gif.latex?$$\\theta_0 $$) and ![](http://latex.codecogs.com/gif.latex?$$\\phi $$) are constants that depend on on the initial displacement and velocity of the pendulum. The oscillations are sinusoidal with time and continue forever without decaying since there is no friction in the model. 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://github.com/ZQTXLC/computationalphysics_N2012301020134/raw/master/Chapter-3/A8_pendulum.png)<p align="center">Figure 8.1, A simple pendulum</p>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://github.com/ZQTXLC/computationalphysics_N2012301020134/raw/master/Chapter-3/A8_pendulum.png)<p align="center">Figure 8.1, A simple pendulum</p>
 
 &emsp;&emsp;Now considering a numerical approach using Euler method to this problem. Equation (8.2) is second-order differential equations as opposed to the first-order equations. Splitting the differential equation into two first-order differential equations and then using standard Euler method to solve each equation, that is writing each derivative in finite difference form, which leads to:
 
@@ -49,7 +51,7 @@ for calculation is illustrated as follows:
 
 However, as illustrated in Figure 8.2 below, the behavior there is totally unusual, in short, the amplitude of the oscillations grows with time while the motion is basically oscillatory. This is not only at odds with our intuition, but beyond physics. It turns out the difficulty lies with our use of Euler method. Moreover, the energy of the pendulum will increase with time for any nonzero value of ![](http://latex.codecogs.com/gif.latex?$$\\Delta t $$).
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://github.com/ZQTXLC/computationalphysics_N2012301020134/raw/master/Chapter-3/A8_energy_increasing.png)<p align="center">Figure 8.2, Euler method for a simple pendulum</p>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://github.com/ZQTXLC/computationalphysics_N2012301020134/raw/master/Chapter-3/A8_energy_increasing.png)<p align="center">Figure 8.2, Euler method for a simple pendulum</p>
 
 &emsp;&emsp;In effect, the problem encountering here is the inherent unstability of Euler method. Let's get insight into the total energy *E* to how this instability comes about:
 
