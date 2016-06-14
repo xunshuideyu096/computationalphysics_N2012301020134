@@ -4,7 +4,7 @@
 
 [Source Code: A8_3.8.py](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-3/A8_nonlinear_3.8.py)
 
-###<p align="center">Numerically investigate the linear forced pendulum</p>
+###<p align="center">Numerically investigate the linear forced damped pendulum and nonlinear ideal pendulum</p>
 #####<p align="center">Chun lin</p>
 #####<p align="center">Student ID: 2012301020134, Major: Physics Base Class</p>
 
