@@ -30,6 +30,6 @@ https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapte
 
 [The **8th** Assignment: Exercise 3.17, 3.18, Date: 2016-06-15](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-3/A8_pendulum_github.md)
 
-[The **9th** Assignment: Exercise 3.12, Date: 2016-06-15](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-3/A9_chaos_pendulum_github.md)
+[The **9th** Assignment: Exercise 3.12, 3.16, Date: 2016-06-15](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-3/A9_chaos_pendulum_github.md)
 
 [The **10th** Assignment: Exercise , Date: 2016-06-]()
