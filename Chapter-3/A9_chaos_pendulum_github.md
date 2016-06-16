@@ -91,7 +91,7 @@ An interesting result of this *physical pendulum* is the occurrence of __Chaos__
 
 &emsp;&emsp;&emsp;&emsp;&emsp;![](https://github.com/ZQTXLC/computationalphysics_N2012301020134/raw/master/Chapter-3/A9_omega_vs_theta_F=1.2_pi.jpg)<p align="center">Figure 9.6, The phase-space plot, with a driving force equal to 1.2</p>
 
-&emsp;&emsp;Figure 9.7, 9.8, 9.9 have shown the **Poincare sections** for different cases, i.e., at times are in phase with the drive force, corresponding to the maximum of the drive force and ![](http://latex.codecogs.com/gif.latex?$$\\pi $$)/4 out-of-phase with the force, respectively. We can see the strange attractors and the plot shapes are varied with different phase differences.
+&emsp;&emsp;Figure 9.7, 9.8, 9.9 have shown the **Poincare sections** for different cases, i.e., at times are in phase with the drive force, corresponding to the maximum of the drive force and ![](http://latex.codecogs.com/gif.latex?$$\\pi $$)/4 out-of-phase with the force, respectively. We can see the strange attractors and the plot shapes are varied with different phase differences. Moreover, if we change a little for the parameters, like the driving force or driving frequency, the strange attractors will change their shapes and even disappear as the parameters have been altered a lot.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;![](https://github.com/ZQTXLC/computationalphysics_N2012301020134/raw/master/Chapter-3/A9_Poincare_phase=0.jpg)<p align="center">Figure 9.7, Poincare section for times that are *in phase* with the driving force</p>
 
