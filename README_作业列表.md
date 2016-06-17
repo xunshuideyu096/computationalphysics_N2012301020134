@@ -32,4 +32,6 @@ https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapte
 
 [The **9th** Assignment: Exercise 3.12, 3.16, Date: 2016-06-15](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-3/A9_chaos_pendulum_github.md)
 
-[The **10th** Assignment: Exercise , Date: 2016-06-]()
+[The **10th** Assignment: Exercise 3.26, Date: 2016-06-17](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-3/A10_Lorenz_model_github.md)
+
+[The **11th** Assignment: Exercise , Date: 2016-06-](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-3/A_github.md)
