@@ -34,4 +34,4 @@ https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapte
 
 [The **10th** Assignment: Exercise 3.26, Date: 2016-06-17](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-3/A10_Lorenz_model_github.md)
 
-[The **11th** Assignment: Exercise , Date: 2016-06-](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-3/A_github.md)
+[The **11th** Assignment: Exercise 4.7, Date: 2016-06-18](https://github.com/ZQTXLC/computationalphysics_N2012301020134/blob/master/Chapter-4/A11_double-planet_gihub.md)
