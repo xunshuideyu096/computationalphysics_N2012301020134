@@ -104,3 +104,4 @@ Using pylab module, the figure below has showed the results of two different tim
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For this simple case, i.e., the time dependence of velocity with a constant acceleration, the Euler method gives the exact solution and the solution is independent of time steps.
 
 <br /> 
+公开
